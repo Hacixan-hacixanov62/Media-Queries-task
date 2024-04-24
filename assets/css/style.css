@@ -1,0 +1,46 @@
+.header-bg-color {
+    background-color: #ff9100;
+   
+}
+
+.container-fluid{
+    font-weight: 900 ;
+}
+
+
+
+.card-body{
+    font-weight: 900 ;
+
+}
+
+
+.card{
+    margin-top: 20px;
+}
+
+
+.proqram link{
+    display: flex;
+    align-items: center;
+   
+}
+
+
+.text-center{
+    align-items: center;
+    font-size: 30px;
+    font-weight: 600;
+}
+
+ .icons .icons-link img{
+    height: 160px;
+    width: 160px;
+    
+}
+
+
+.button1 h6{
+  display: flex;
+  text-decoration: center;
+}
